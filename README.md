@@ -1,5 +1,7 @@
 # HCI Individual Project
 
+**Live demo:** https://rshamsini.github.io/AI_Chat_Interface/
+
 ## Overview
 
 This project is a React/Vite implementation of an HCI prototype for organizing and finding past AI chat conversations. The design is based on the project report, [Individual_Project_Report.pdf](Individual_Project_Report.pdf), which studies the usability problems users face when chat histories become long, cluttered, and difficult to search.
